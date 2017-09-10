@@ -1,3 +1,4 @@
+// program to blink an led.it as a very somple program on how to access gpio pins of an embedded linux system. 
 #include<stdio.h>
 void main()
 {
