@@ -1,4 +1,4 @@
-//a simple program to transmit data via via uart from user space
+//a simple program to transmit data via uart from user space
 #include<stdio.h>
 void main()
 {
