@@ -3,6 +3,7 @@
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tashi George");
+MODULE_DESCRIPTION("seperate file for initialisation");
 
 int init_module(void)
 {
