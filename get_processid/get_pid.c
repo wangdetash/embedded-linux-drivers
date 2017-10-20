@@ -5,7 +5,7 @@
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tashi George");
-MODULE_DESCRIPTION("kernel module providing process id of current process")
+MODULE_DESCRIPTION("kernel module providing process id of current process");
 
 int init_module(void)
 {
